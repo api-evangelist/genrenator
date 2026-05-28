@@ -1,0 +1,32 @@
+aid: genrenator
+name: Genrenator
+description: "Music genre generator"
+url: https://binaryjazz.us/genrenator-api/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Music"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Music
+  - Public APIs
+apis:
+  - name: Genrenator
+    description: "Music genre generator"
+    humanURL: https://binaryjazz.us/genrenator-api/
+    baseURL: https://binaryjazz.us/genrenator-api/
+    tags:
+      - Music
+    properties:
+      - type: Documentation
+        url: https://binaryjazz.us/genrenator-api/
+common:
+  - type: Website
+    url: https://binaryjazz.us/genrenator-api/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
