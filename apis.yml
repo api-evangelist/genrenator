@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://binaryjazz.us/genrenator-api/
 common:
+  - type: DomainSecurity
+    url: security/genrenator-domain-security.yml
   - type: Website
     url: https://binaryjazz.us/genrenator-api/
   - type: PublicAPIsListing
