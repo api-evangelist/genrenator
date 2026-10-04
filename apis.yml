@@ -39,7 +39,6 @@ apis:
   - name: Genrenator
     description: "Music genre generator"
     humanURL: https://binaryjazz.us/genrenator-api/
-    baseURL: https://binaryjazz.us/genrenator-api/
     tags:
       - Music
     properties:
